@@ -13,41 +13,44 @@ I specialize in creating robust, secure, and user-friendly applications that bri
   <img src="https://github-profile-trophy.vercel.app?username=ledgerwave&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
-# Rust Smart Contract
-```rust
-use near_sdk::borsh::{self, BorshDeserialize, BorshSerialize};
-use near_sdk::{env, near_bindgen};
+# Haskell Smart Contract
+```haskell
+{-# LANGUAGE DataKinds           #-}
+{-# LANGUAGE NoImplicitPrelude   #-}
+{-# LANGUAGE TemplateHaskell     #-}
+{-# LANGUAGE ScopedTypeVariables #-}
+{-# LANGUAGE OverloadedStrings   #-}
 
-#[near_bindgen]
-#[derive(BorshDeserialize, BorshSerialize)]
-pub struct Counter {
-    value: i32,
-}
+module SimpleSecret where
 
-// Default implementation
-impl Default for Counter {
-    fn default() -> Self {
-        Self { value: 0 }
-    }
-}
+import PlutusTx
+import PlutusTx.Prelude
+import Plutus.V2.Ledger.Api
+import Plutus.V2.Ledger.Contexts
+import Prelude (IO, putStrLn)
 
-#[near_bindgen]
-impl Counter {
-    // Increment the counter
-    pub fn increment(&mut self) {
-        self.value += 1;
-        env::log_str(&format!("Counter incremented to {}", self.value));
-    }
+-- 🎁 Simple Secret Validator
+-- The transaction succeeds only if the provided guess equals the secret.
 
-    // Decrement the counter
-    pub fn decrement(&mut self) {
-        self.value -= 1;
-        env::log_str(&format!("Counter decremented to {}", self.value));
-    }
+{-# INLINABLE mkValidator #-}
+mkValidator :: BuiltinByteString -> BuiltinByteString -> ScriptContext -> Bool
+mkValidator secret guess _ = traceIfFalse "❌ Wrong secret!" (guess == secret)
 
-    // Get the current value
-    pub fn get_value(&self) -> i32 {
-        self.value
-    }
-}
+-- 🔧 Compile the validator
+validator :: Validator
+validator = mkValidatorScript $$(PlutusTx.compile [|| mkValidator ||])
+
+-- 🔢 Get the validator hash
+valHash :: ValidatorHash
+valHash = validatorHash validator
+
+-- 🏦 Get the contract address
+valAddress :: Address
+valAddress = scriptHashAddress valHash
+
+-- ✅ Build confirmation
+main :: IO ()
+main = putStrLn "✅ Simple Plutus smart contract compiled successfully!"
+
+
 ```
