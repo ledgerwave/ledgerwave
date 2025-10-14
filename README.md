@@ -1,6 +1,8 @@
 
 ![Failure is not an Option, it is a Result<T,E>](./img/banner.jpg "Failure is not an Option it is a Result<T,E>")
 
+Hi, I'm **LedgerWave**
+
 I’m a freelance software engineer passionate about turning complex ideas into **elegant**, **reliable systems**. I specialize in **fullstack development**, **blockchain applications**, and building tools that make developers’ lives easier.
 
 Beyond coding, I enjoy designing decentralized systems, exploring cutting-edge Rust and Python projects, and helping clients architect solutions that scale and adapt to real-world challenges.
@@ -14,7 +16,7 @@ When I step away from the keyboard, you’ll find me cycling through gravel trai
 
 <!-- Counting Dynaconf + Flasgger + Quokka starts above -->
 
-Most used languages across my projects:
+#### Most used languages across my projects:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ledgerwave&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -25,15 +27,10 @@ Most used languages across my projects:
   <img src="https://github-profile-trophy.vercel.app?username=ledgerwave&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
+</div>
 
-
-🔗 Connect with Me
----
-<div align="center"> 
-
-![Follow](https://img.shields.io/github/followers/ledgerwave?label=Follow&style=for-the-badge&color=blue) ![Profile Views](https://komarev.com/ghpvc/?username=ledgerwave&color=blue&style=for-the-badge) 
-
-
+#### I have hands-on experience with
+```json
   "BackEnd": "Python", "Django", "Flask", "FastAPI", "Streamlit", "Rust", "Go", "Haskell"
   "BlockChain": "Solidity", "EVM", "Solana", "Cardano", "Sui"
   "BataBases": "PostgreSQL", "MySQL", "SQLite", "MongoDB", "Redis"
