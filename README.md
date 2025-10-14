@@ -21,15 +21,18 @@ Most used languages across my projects:
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ledgerwave&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<div align="center" style="margin-top: -35px;">
+<div align="center" style="margin-top: 20px;">
   <img src="https://github-profile-trophy.vercel.app?username=ledgerwave&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
-#### I have hands-on experience with
 
-```json
 
-  "FrontEnd": "React", "TypeScript", "Next.js", "Vue.js", "Nuxt.js"
+🔗 Connect with Me
+---
+<div align="center"> 
+
+![Follow](https://img.shields.io/github/followers/ledgerwave?label=Follow&style=for-the-badge&color=blue) ![Profile Views](https://komarev.com/ghpvc/?username=ledgerwave&color=blue&style=for-the-badge) 
+
 
   "BackEnd": "Python", "Django", "Flask", "FastAPI", "Streamlit", "Rust", "Go", "Haskell"
   "BlockChain": "Solidity", "EVM", "Solana", "Cardano", "Sui"
@@ -45,3 +48,4 @@ Most used languages across my projects:
 
 - **Discord**: [MantleKeeper](https://discord.com/users/555336834448752648)
 - **Telegram**: [Poseidon](https://t.me/poseidon_0990)
+
