@@ -1,5 +1,5 @@
-
 ![Failure is not an Option, it is a Result<T,E>](./img/banner.jpg "Failure is not an Option it is a Result<T,E>")
+
 
 Hi, I'm **LedgerWave**
 
@@ -10,7 +10,12 @@ Beyond coding, I enjoy designing decentralized systems, exploring cutting-edge R
 When I step away from the keyboard, you’ll find me cycling through gravel trails, diving into progressive metal riffs, or experimenting with home automation and self-hosted services, always curious about how technology can enhance life without taking over it.
 <div align="center">
 
+<p align='center'>
+  <img src='https://github-widgetbox.vercel.app/api/profile?username=ledgerwave&theme=darkmode&data=followers,repositories,stars,commits' />
+</p>
+
 ![Follow](https://img.shields.io/github/followers/ledgerwave?label=Follow&style=flat&color=313131) [![Profile views](https://komarev.com/ghpvc/?username=ledgerwave&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/ledgerwave)
+
 
 </div>
 
