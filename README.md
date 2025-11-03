@@ -21,6 +21,7 @@ When I step away from the keyboard, you’ll find me cycling through gravel trai
 
 #### I have hands-on experience with
 ```json
+  "Frontend": "React", "Next", "Vue", "Nuxt", "Javascript", "Typescript",
   "BackEnd": "Python", "Django", "Flask", "FastAPI", "Streamlit", "Rust", "Go", "Haskell"
   "BlockChain": "Solidity", "EVM", "Solana", "Cardano", "Sui"
   "BataBases": "PostgreSQL", "MySQL", "SQLite", "MongoDB", "Redis"
