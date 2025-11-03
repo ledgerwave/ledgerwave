@@ -31,9 +31,3 @@ When I step away from the keyboard, you’ll find me cycling through gravel trai
     "Microservices", "System Configuration","Package Management", 
     "Quality Engineering","Team Leading", "Technical Mentoring"
 ```
-
-#### Contact
-
-- **Discord**: [MantleKeeper](https://discord.com/users/555336834448752648)
-- **Telegram**: [Poseidon](https://t.me/poseidon_0990)
-
