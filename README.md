@@ -11,11 +11,11 @@ When I step away from the keyboard, you’ll find me cycling through gravel trai
 <div align="center">
 
 <p align='center'>
-  <img src='https://github-widgetbox.vercel.app/api/profile?username=diorlab&theme=darkmode&data=followers,repositories,stars,commits' />
+  <img src='https://github-widgetbox.vercel.app/api/profile?username=diorwave&theme=darkmode&data=followers,repositories,stars,commits' />
 </p>
 
 <div align="center" style="margin-top: 20px;">
-  <img src="https://github-profile-trophy.vercel.app?username=diorlab&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=diorwave&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 </div>
 
