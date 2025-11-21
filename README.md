@@ -1,7 +1,7 @@
 ![Failure is not an Option, it is a Result<T,E>](./img/banner.jpg "Failure is not an Option it is a Result<T,E>")
 
 
-Hi, I am Isa
+Hi, I am Dior
 
 I’m a freelance software engineer passionate about turning complex ideas into **elegant**, **reliable systems**. I specialize in **fullstack development**, **blockchain applications**, and building tools that make developers’ lives easier.
 
