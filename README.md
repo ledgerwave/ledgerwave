@@ -23,7 +23,7 @@ When I step away from the keyboard, you’ll find me cycling through gravel trai
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=79525&image_size=auto&color_scheme=light"
+        srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=79525&image_size=auto&color_scheme=dark"
       />
       <img
         alt="Dashboard stats of @Diorwave"
@@ -33,6 +33,7 @@ When I step away from the keyboard, you’ll find me cycling through gravel trai
     </picture>
   </a>
 </div>
+
 
 </div>
 
