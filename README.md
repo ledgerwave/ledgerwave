@@ -14,9 +14,26 @@ When I step away from the keyboard, you’ll find me cycling through gravel trai
   <img src='https://github-widgetbox.vercel.app/api/profile?username=diorwave&theme=darkmode&data=followers,repositories,stars,commits' />
 </p>
 
-<div align="center" style="margin-top: 20px;">
-  <img src="https://github-profile-trophy.vercel.app?username=diorwave&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+<div style="display: flex; justify-content: center; width: 100%;">
+  <a
+    href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=217919645"
+    target="_blank"
+    style="display: block; max-width: 800px;"
+  >
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=79525&image_size=auto&color_scheme=light"
+      />
+      <img
+        alt="Dashboard stats of @Diorwave"
+        src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=79525&image_size=auto&color_scheme=dark"
+        style="width: 100%; height: auto; border-radius: 12px;"
+      />
+    </picture>
+  </a>
 </div>
+
 </div>
 
 #### I have hands-on experience with
