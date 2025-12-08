@@ -1,6 +1,7 @@
 <!-- ![Failure is not an Option, it is a Result<T,E>](./img/banner.jpg "Failure is not an Option it is a Result<T,E>") -->
 ### 👋 Hi, there
-A full-stack engineer building across web, mobile, blockchain, AI, and decentralized networks.
+I am [Dior](https://github.com/diorwave), 
+a fullstack engineer building across web, mobile, blockchain, AI, and decentralized networks.
 
 ####  👑 My old projects
  
@@ -23,7 +24,7 @@ A full-stack engineer building across web, mobile, blockchain, AI, and decentral
  - 🔗 <a href="https://github.com/diorwave/The-Averion-Labs-Front-End">**diorwave/The-Averion-Labs-Front-End**</a>
  - 🔗 <a href="https://github.com/diorwave/ecommerce-website">**diorwave/ecommerce-website**</a>
  - 🔗 <a href="https://github.com/diorwave/HR-management">**diorwave/HR-management**</a>
- 
+
 #### ⛓️ Blockchain & Decentralized Projects
  - 🔗 <a href="https://github.com/diorwave/Solidity-Contracts">**diorwave/Solidity-Contracts**</a>
  - 🔗 <a href="https://github.com/diorwave/Solana-Arbitrage-Bot">**diorwave/Solana-Arbitrage-Bot**</a>
