@@ -1,51 +1,58 @@
 ![Failure is not an Option, it is a Result<T,E>](./img/banner.jpg "Failure is not an Option it is a Result<T,E>")
+## 👋 Hi, there
+A full-stack engineer building across web, mobile, blockchain, AI, and decentralized networks.
+
+## 🚀 Featured Projects
+
+  👑 My old project.
+  
+  - 🔗 <a href="https://github.com/diorwave/shinytouch">diorwave/shinytouch</a>
+  - 🔗 <a href="https://github.com/diorwave/cg2015">diorwave/cg2015</a>
+
+ 🧩 Full-Stack Projects
+  - 🔗 <a href="https://github.com/diorwave/tulos_updated">diorwave/tulos_updated</a>
+  - 🔗 <a href="https://github.com/diorwave/Stripe-Integration">diorwave/Stripe-Integration</a>
+  - 🔗 <a href="https://github.com/diorwave/The-Averion-Labs-Front-End">diorwave/The-Averion-Labs-Front-End</a>
+  - 🔗 <a href="https://github.com/diorwave/ecommerce-website">diorwave/ecommerce-website</a>
+  - 🔗 <a href="https://github.com/diorwave/HR-management">diorwave/HR-management</a>
+
+ ⛓️ Blockchain & Decentralized Projects
+
+  - 🔗 <a href="https://github.com/diorwave/Solidity-Contracts">diorwave/Solidity-Contracts</a>
+  - 🔗 <a href="https://github.com/diorwave/Solana-Arbitrage-Bot">diorwave/Solana-Arbitrage-Bot</a>
+  - 🔗 <a href="https://github.com/diorwave/pyledger">diorwave/pyledger</a>
+  - 🔗 <a href="https://github.com/diorwave/Plutus-prototye">diorwave/Plutus-prototye</a>
+  
 
 
-Hi, I am Dior
+ 🤖 AI & Media Projects
 
-I’m a freelance software engineer passionate about turning complex ideas into **elegant**, **reliable systems**. I specialize in **fullstack development**, **blockchain applications**, and building tools that make developers’ lives easier.
+  - 🔗 <a href="https://github.com/diorwave/RunVSAgent">diorwave/RunVSAgent</a>
+  - 🔗 <a href="https://github.com/diorwave/Cyber-Security-LLM-Agents">diorwave/Cyber-Security-LLM-Agents</a>
+  - 🔗 <a href="https://github.com/diorwave/AI-Travel-Agent">diorwave/AI-Travel-Agent</a>
+  - 🔗 <a href="https://github.com/diorwave/Patentpath">diorwave/Patentpath</a>
 
-Beyond coding, I enjoy designing decentralized systems, exploring cutting-edge Rust and Python projects, and helping clients architect solutions that scale and adapt to real-world challenges.
+<!-- 📱 Mobile Projects
+  - 🔗 <a href="https://github.com/diorwave/RunVSAgent">diorwave/RunVSAgent</a>
+ -->
 
-When I step away from the keyboard, you’ll find me cycling through gravel trails, diving into progressive metal riffs, or experimenting with home automation and self-hosted services, always curious about how technology can enhance life without taking over it.
-<div align="center">
+⚙️ Other Projects
+  - 🔗 <a href="https://github.com/diorwave/discord-bot">diorwave/discord-bot</a>
+  - 🔗 <a href="https://github.com/diorwave/Solana-Trading-Bot">diorwave/Solana-Trading-Bot</a>
 
-<p align='center'>
-  <img src='https://github-widgetbox.vercel.app/api/profile?username=diorwave&theme=darkmode&data=followers,repositories,stars,commits' />
-</p>
+---
+🧰 Tech Stack
 
-<div style="display: flex; justify-content: center; width: 100%;">
-  <a
-    href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=217919645"
-    target="_blank"
-    style="display: block; max-width: 800px;"
-  >
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=79525&image_size=auto&color_scheme=dark"
-      />
-      <img
-        alt="Dashboard stats of @Diorwave"
-        src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=79525&image_size=auto&color_scheme=dark"
-        style="width: 100%; height: auto; border-radius: 12px;"
-      />
-    </picture>
-  </a>
-</div>
+**Frontend:** React, Next.js, TypeScript, Tailwind  
+**Backend:** Python, FastAPI, Node.js, PostgreSQL, Redis  
+**Blockchain:** miner infra, decentralized tooling  
+**AI:** LLMs, video generation models, inference APIs  
+**Mobile:** Flutter, React Native  
+**Cloud / DevOps:** AWS, GitHub Actions, Docker, Firebase  
 
+---
 
-</div>
+# 📫 Contact
+If you're building something in AI, blockchain, or full-stack systems - I’d love to collaborate.
 
-#### I have hands-on experience with
-```json
-  "Frontend": "React", "Next", "Vue", "Nuxt", "Javascript", "Typescript",
-  "BackEnd": "Python", "Django", "Flask", "FastAPI", "Streamlit", "Rust", "Go", "Haskell"
-  "BlockChain": "Solidity", "EVM", "Solana", "Cardano", "Sui"
-  "BataBases": "PostgreSQL", "MySQL", "SQLite", "MongoDB", "Redis"
-  "DevOps": "Docker", "Podman", "Ansible", "Kubernetes", "Nginx", "Apache", "Envoy"
-  "Protocols": "HTTP", "REST", "gRPC", "WebSockets"
-  "Architecture": "Distributed Systems", "Event Driven Architecture",
-    "Microservices", "System Configuration","Package Management", 
-    "Quality Engineering","Team Leading", "Technical Mentoring"
-```
+🔗 **https://github.com/diorwave**
