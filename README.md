@@ -41,11 +41,11 @@ a fullstack engineer building across web, mobile, blockchain, AI, and decentrali
   - <a href="https://github.com/diorwave/AI-Travel-Agent">**diorwave/AI-Travel-Agent**</a>
   - <a href="https://github.com/diorwave/Patentpath">**diorwave/Patentpath**</a>
 
+
 #### 📱 Mobile Projects
   - **[diorwave/bleach-ui](https://github.com/diorwave/bleach-ui)**
   - **[diorwave/Chat-ui](https://github.com/diorwave/Chat-ui)**
   - **[diorwave/App-Grocery](https://github.com/diorwave/App-Grocery)**
-
 
 #### ⚙️ Other Projects
   - <a href="https://github.com/diorwave/discord-bot">**diorwave/discord-bot**</a>
