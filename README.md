@@ -36,7 +36,7 @@ a fullstack engineer building across web, mobile, blockchain, AI, and decentrali
  
 #### 🤖 AI & Media Projects
 
-  - <a href="https://github.com/diorwave/RunVSAgent">**diorwave/RunVSAgent**</a>
+  - <a href="https://github.com/diorwave/VSCode-Agent-Bridge">**diorwave/VSCode-Agent-Bridge**</a>
   - <a href="https://github.com/diorwave/Cyber-Security-LLM-Agents">**diorwave/Cyber-Security-LLM-Agents**</a>
   - <a href="https://github.com/diorwave/AI-Travel-Agent">**diorwave/AI-Travel-Agent**</a>
   - <a href="https://github.com/diorwave/Patentpath">**diorwave/Patentpath**</a>
